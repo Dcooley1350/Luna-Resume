@@ -1,0 +1,15 @@
+h1{
+    color: turquoise;
+    text-align: center;
+}
+.center {
+    text-align: center;
+}
+li{
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 500
+}
+h3{
+   font-style: italic; 
+}
