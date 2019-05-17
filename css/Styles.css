@@ -13,3 +13,13 @@ li{
 h3{
    font-style: italic; 
 }
+img{
+    float: Right;
+    width: 500px;
+    height: 600px;
+}
+.sidebar{
+    width: 30%;
+    float: Left;
+    background-color: yellow
+}
