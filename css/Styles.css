@@ -17,9 +17,30 @@ img{
     float: Right;
     width: 500px;
     height: 600px;
+    border: 2 px solid yellow;
+    padding: 4px;
+    Margin: 6 px;
+
+
 }
 .sidebar{
     width: 30%;
     float: Left;
-    background-color: yellow
+    background-color: yellow;
+    border: 2 px solid black;
+    padding: 4px;
+    margin: 6 px;
+}
+header{
+    border: 2 px solid grey;
+    padding: 4 px;
+    margin: 6 px;
+}
+.Dark-Background{
+    background-color: black;
+    color: white;
+}
+.Light-Background{
+    background-color: white;
+    color: black
 }
